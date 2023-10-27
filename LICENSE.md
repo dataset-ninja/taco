@@ -1,0 +1,3 @@
+TACO: Trash Annotations in Context is under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) license.
+
+[Source](http://tacodataset.org/)

@@ -1,6 +1,6 @@
 Dataset **TACO** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://www.dropbox.com/scl/fi/kthqh85eoqbl2i3g1puac/taco-DatasetNinja.tar?rlkey=3o52vdu72h4n08qf0n9chf4g0&dl=1)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzI4NjNfVEFDTy90YWNvLURhdGFzZXROaW5qYS50YXIiLCAic2lnIjogIk5pOGhYaFcxaVFnckxNQnBjQy8yTU9SQTNNY2JjWExoc2phNkVEYXZ0VjA9In0=)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
